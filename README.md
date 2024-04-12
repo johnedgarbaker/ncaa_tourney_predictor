@@ -4,7 +4,8 @@ This project aims to use metrics used to determine strength of college basketbal
  a team wins games in the NCAA tournament
 #    Why the project is useful: 
 People love March Madness, and individuals with a rooting interest put time and effort into choosing the right teams. 
-While there will always be luck and chance in these games, better predictions can help
+While there will always be luck and chance in these games, better predictions can help. As an aside, after the tournament finished,
+this model would have found three of the four teams to make the final four.
 #    How users can get started with the project: 
 Much of the project is cleaning and tidying code. This project pushes data from the past three years into a common dataframe, 
 allowing for more data to analyze. There is the beginning of analysis, but more work to do.
